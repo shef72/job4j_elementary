@@ -10,7 +10,7 @@ public class Test5 {
        System.out.println("6 * 2 = 12");
        System.out.println("7 / 2 = 14");
        System.out.println("4 * 2 = 16");
-       System.out.println("9 * 2 = 18");
+       System.out.println("33 * 2 = 18");
 
     }
 }
