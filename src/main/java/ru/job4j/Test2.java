@@ -8,7 +8,7 @@ public class Test2 {
         System.out.println(men);
         float height = 1.75f;
         System.out.println(height);
-        short pieces = 30000;
+        short pieces = 30001;
         System.out.println(pieces);
         int bacteria = 2050478321;
         System.out.println(bacteria);
