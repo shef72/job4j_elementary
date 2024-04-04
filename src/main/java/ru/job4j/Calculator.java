@@ -15,10 +15,15 @@ public class Calculator {
             int division = num / two;
             System.out.println(division);*/
 
-        int five = 6;
+     /*   int five = 6;
         int two = 3;
         int fiveMinusTwo = five - two;
-        System.out.println(fiveMinusTwo);
+        System.out.println(fiveMinusTwo);*/
+
+        int four = 25;
+        int two = 4;
+        int fourTimeTwo = four * two;
+        System.out.println(fourTimeTwo);
 
 
 
