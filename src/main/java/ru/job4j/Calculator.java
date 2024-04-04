@@ -9,11 +9,19 @@ public class Calculator {
        // System.out.println(plus);
 
 
-            int six = 80;
+        /*   int num = 80;
             int div = 20;
             int two = 10;
-            int division = six / two;
-            System.out.println(division);
+            int division = num / two;
+            System.out.println(division);*/
+
+        int five = 6;
+        int two = 3;
+        int fiveMinusTwo = five - two;
+        System.out.println(fiveMinusTwo);
+
+
+
         }
     }
 
